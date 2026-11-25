@@ -18,9 +18,9 @@ I build complex admin panels, dashboards, checkout flows and design systems with
 
 | Project | What it is | Stack |
 | --- | --- | --- |
-| [**autos-crm**](https://github.com/dykan91/autos-crm) | CRM for used-car dealerships in Germany: car stock, clients and Kaufvertrag PDF contracts. [Live demo](https://2323-orcin.vercel.app) | React 19, TypeScript, Ant Design, Supabase, jsPDF |
-| [**nestjs-diia**](https://github.com/dykan91/nestjs-diia) | Open-source NestJS module for Diia multisharing (Дія.Шеринг): decryption, archive password, document parsing | NestJS, TypeScript, Python, Jest |
-| [**utility-telegram-bot**](https://github.com/dykan91/utility-telegram-bot) | Telegram bot for utility service subscribers: accounts, balance, online payments, CRM requests. Runs with demo data | Python, aiogram 3, MariaDB, Redis, Docker |
+| [**autos-crm**](https://github.com/sdykan/autos-crm) | CRM for used-car dealerships in Germany: car stock, clients and Kaufvertrag PDF contracts. [Live demo](https://2323-orcin.vercel.app) | React 19, TypeScript, Ant Design, Supabase, jsPDF |
+| [**nestjs-diia**](https://github.com/sdykan/nestjs-diia) | Open-source NestJS module for Diia multisharing (Дія.Шеринг): decryption, archive password, document parsing | NestJS, TypeScript, Python, Jest |
+| [**utility-telegram-bot**](https://github.com/sdykan/utility-telegram-bot) | Telegram bot for utility service subscribers: accounts, balance, online payments, CRM requests. Runs with demo data | Python, aiogram 3, MariaDB, Redis, Docker |
 
 ### Contact
 
